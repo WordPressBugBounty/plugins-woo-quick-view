@@ -183,7 +183,15 @@ class wcqv_frontend{
  	         ob_start();
  	
 
-		 	while ( have_posts() ) : the_post(); ?>
+		 	while ( have_posts() ) : the_post(); 
+			if ( get_post_status( $product_id ) === 'private' ) {
+				echo 'This product is private.';
+				die;
+			}else if ( ! empty( get_post_field( 'post_password', $product_id ) ) ) {
+				echo 'This product is password-protected.';
+				die;
+			} 
+			?>
 	 	    <script>
 		 	    var url = <?php echo "'"."$this->wcqv_plugin_dir_url/js/prettyPhoto.init.js'"; ?>;
 		 	    jQuery.getScript(url);

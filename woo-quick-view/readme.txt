@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=H5F3Z6S3
 Tags:  free quick view, products quick view, quick-view, single product, woocommerce, woocommerce extension, WooCommerce Plugin, WooCommerce Quick View, Quick View,
 Requires at least: 7.0
 Tested up to: 6.7
-Stable tag: 1.1.1
+Stable tag: 1.1.3
 License: GPLv2
 
 WooCommerce Quick View plugin allows the customers to have a brief overview of every product in a light box.
