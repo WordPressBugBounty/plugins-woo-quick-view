@@ -6,7 +6,7 @@ Description: Woo Quick View plugin allows the customers to have a brief overview
 Author: Arshid
 Author URI: http://ciphercoin.com/
 Text Domain: woo-quick-view
-Version: 1.1.1
+Version: 1.1.2
 */
 
 
