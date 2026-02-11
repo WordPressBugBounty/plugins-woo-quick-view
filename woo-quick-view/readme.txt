@@ -1,24 +1,24 @@
-=== WooCommerce Quick View ===
+=== Quick View For WooCommerce ===
 Contributors: arshidkv12
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=H5F3Z6S3MNTXA&lc=IN&item_name=wp%2dlogin%2dlimit&amount=5%2e00&currency_code=USD&button_subtype=services&bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHosted
-Tags:  free quick view, products quick view, quick-view, single product, woocommerce, woocommerce extension, WooCommerce Plugin, WooCommerce Quick View, Quick View,
+Tags:  free quick view, products quick view, quick-view, single product, woocommerce, woocommerce extension, WooCommerce Plugin, Quick View For WooCommerce, Quick View,
 Requires at least: 7.0
-Tested up to: 6.7
+Tested up to: 6.8
 Stable tag: 1.1.3
 License: GPLv2
 
-WooCommerce Quick View plugin allows the customers to have a brief overview of every product in a light box.
+Quick View For WooCommerce plugin allows the customers to have a brief overview of every product in a light box.
   
 
 == Description ==
 
-WooCommerce Quick View (Woo Quick View) allows users to get a quick look of products without opening the product page.Customers can navigate from one product to another using next and previous product button.  
+Quick View For WooCommerce (Woo Quick View) allows users to get a quick look of products without opening the product page.Customers can navigate from one product to another using next and previous product button.  
 
 Go to `Settings > Quick View`.
 
 *Demo :* [https://woo.ciphercoin.com/](https://woo.ciphercoin.com/)
  
-= Features of WooCommerce Quick View =
+= Features of Quick View For WooCommerce =
 
 * Add a button in product loop to open a modal window with the product summary using ajax
 * Product image , title, price, quantity and add to cart button will be shown on popup.
