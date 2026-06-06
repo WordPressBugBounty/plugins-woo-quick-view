@@ -1,10 +1,10 @@
 === Quick View For WooCommerce ===
 Contributors: arshidkv12
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=H5F3Z6S3MNTXA&lc=IN&item_name=wp%2dlogin%2dlimit&amount=5%2e00&currency_code=USD&button_subtype=services&bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHosted
-Tags:  free quick view, products quick view, quick-view, single product, woocommerce, woocommerce extension, WooCommerce Plugin, Quick View For WooCommerce, Quick View,
-Requires at least: 7.0
-Tested up to: 6.8
-Stable tag: 1.1.3
+Tags:  products quick view, quick-view, Quick View For WooCommerce, Quick View,
+Requires at least: 4.8
+Tested up to: 7.0
+Stable tag: 1.1.4
 License: GPLv2
 
 Quick View For WooCommerce plugin allows the customers to have a brief overview of every product in a light box.

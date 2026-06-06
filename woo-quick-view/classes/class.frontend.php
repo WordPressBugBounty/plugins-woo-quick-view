@@ -162,7 +162,7 @@ class wcqv_frontend{
 	public function wcqv_add_button(){
 
 		global $post;
-        echo '<a data-product-id="'.$post->ID.'"class="quick_view button" >
+        echo '<a data-product-id="'.$post->ID.'" class="quick_view button" >
         <span>'.$this->wcqv_options['button_lable'].'</span></a>';
 	}
 
